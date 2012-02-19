@@ -1,7 +1,7 @@
 A control system for an automated house.
 The software is embedded on a Motorola/Freescale 68HC12 microcontroller. 
 Sub Components: 
-1) Alarm System  
+1) Security System  
 2) Heating System
 3) Automated Blinds
 
